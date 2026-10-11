@@ -1,1 +1,1 @@
-# arkx-app-maven-plugin
+# arkxos-app-maven-plugin
